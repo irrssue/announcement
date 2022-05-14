@@ -1,4 +1,4 @@
-# announcement
+# Announcement
 The offical announcements from Austin Rolert/irrssue.
 The announcements that what I have been doing and what I have achieved
 
