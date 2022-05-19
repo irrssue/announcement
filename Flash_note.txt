@@ -1,0 +1,22 @@
+I just create a flash note app in flutter!!
+this might be my new full project, 
+I have been creating apps with tutorials, helping and many others. But now for the first time in the time line of learning Flutter,
+I just created an entire note-taking app without the help of any others. Of course,
+you might ask, I do have to go Google tons of times, but that is what developers do :) xD. 
+
+It's a nice way to practice what you have learned in previous. 
+By doing projects on your own, you get closer to knowing what you learn. 
+Or are you just copying all the codes from the tutorial all the time? It's the best way to find out.
+
+
+Anyway, the app is finished. 
+I get errors while uploading the Flutter app with keystore. 
+There are tons of errors and I'm still solving these on my own with the help of Google.
+
+In the future, I'll develop this app further.
+
+Irrssue/[5/20/2022]
+
+
+
+The app updates will be listed here with their days and versions: 
